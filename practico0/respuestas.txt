@@ -1,0 +1,28 @@
+Parte 1
+    Ejercicio 1
+    a
+        10 - 2 = 5
+    b
+        2*17*6= 204
+    Ejercicio 2
+    a 
+        area =5
+        base =3
+        area_rectangulo =15
+    b
+        area =12.5
+        base =5.3
+        area_rectangulo =66.25
+    Ejercicio 3
+    a
+        grados 50F =10
+    b
+        grados 75F =23.88888888888889
+    Ejercicio 4
+    a 
+        promedio 5, 7 y 9 =7
+    b 
+        promedio -2 , -3, -8 =-4.333333333
+    c 
+        promedio -1.2, 5.3, -3.3 =-9.63333333
+    
